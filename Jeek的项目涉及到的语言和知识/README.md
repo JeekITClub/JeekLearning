@@ -17,7 +17,7 @@
 - [Vue.js](https://cn.vuejs.org/) （这是个前端框架，而不是一门语言,这个官网有时候比较慢，耐心等加载吧）
 
 ### 后端（GitHub上项目为 [JPSP_RESTful](https://github.com/AlienStudio)）：
-- [Node.js(Express.js)](http://www.expressjs.com.cn/) （后端框架，同样也不是语言，因为主要采用Javascript来进行编写，所以有.js后缀）
+- [Node.js(Express.js)](http://www.expressjs.com.cn/) （后端框架，同样也不是语言）
 - [MongoDB](http://www.runoob.com/mongodb/mongodb-tutorial.html)（JPSP采用的数据库，写后端的需要学习基本的原理和操作）
 - Nginx （服务器，百度了解相关使用方法）
 - 网站部署（如何将网站部署到公网，让所有用户可以访问，最好前端也学一下）

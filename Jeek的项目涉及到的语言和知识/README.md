@@ -21,7 +21,8 @@
 - HTML, CSS, JavaScript 三件套
     - JavaScript [现代 JavaScript 教程](https://zh.javascript.info/) 
 - [React.js](https://reactjs.org/) （这是个前端框架，而不是一门语言,这个官网有时候比较慢，耐心等加载吧）
-    - [印记中文]https://www.docschina.org/
+    - [印记中文](https://www.docschina.org/)
+- [fullstackopen](https://fullstackopen.com/zh/)
 
 ### 后端（GitHub上项目为 [JPSP_RESTful](https://github.com/AlienStudio)）：
 - Python
